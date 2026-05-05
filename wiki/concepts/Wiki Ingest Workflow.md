@@ -4,8 +4,9 @@ type: concept
 tags: [llm-wiki, workflow, ingestion]
 sources:
   - "[[raw/clippings/2026-05-04-llm-wiki]]"
+  - "[[raw/clippings/2026-05-05-personal-harness-llm-wiki-developer-second-brain]]"
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 # Wiki Ingest Workflow
@@ -29,8 +30,13 @@ Ingest should preserve the distinction between immutable source records and the
 LLM-maintained wiki. The raw source remains the reference point; the wiki is the
 working synthesis.
 
+[[Building a Complete Personal Harness]] adds an operational safety rule:
+ingest should present a plan before broad wiki writes, especially because
+external source text may contain prompt-injection-style instructions.
+
 ## Related
 
 - [[LLM Wiki]]
 - [[LLM Wiki Pattern]]
+- [[Agent Safety Layers]]
 - [[Wiki Query Workflow]]

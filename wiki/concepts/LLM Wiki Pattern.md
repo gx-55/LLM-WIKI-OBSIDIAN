@@ -4,8 +4,9 @@ type: concept
 tags: [llm-wiki, knowledge-management, agent-workflow]
 sources:
   - "[[raw/clippings/2026-05-04-llm-wiki]]"
+  - "[[raw/clippings/2026-05-05-personal-harness-llm-wiki-developer-second-brain]]"
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 # LLM Wiki Pattern
@@ -28,9 +29,18 @@ from already-organized knowledge.
 - Maintained wiki layer: `wiki/`
 - Agent instruction layer: [[AGENTS]]
 
+## Notes
+
+[[Building a Complete Personal Harness]] extends this pattern for developers by
+adding `dev/` as a collaborative zone for ADRs, debriefs, projects, snippets,
+and technical readings. This preserves links between what was read and what was
+decided.
+
 ## Related
 
 - [[LLM Wiki]]
 - [[Compounding Knowledge Base]]
+- [[Developer Second Brain]]
+- [[Vault Zone Separation]]
 - [[Wiki Ingest Workflow]]
 - [[Wiki Query Workflow]]

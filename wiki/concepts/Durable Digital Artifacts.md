@@ -4,6 +4,7 @@ type: concept
 tags: [durability, digital-preservation, file-over-app]
 sources:
   - "[[raw/clippings/2026-05-05-file-over-app]]"
+  - "[[raw/clippings/2026-05-05-personal-harness-llm-wiki-developer-second-brain]]"
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -30,8 +31,12 @@ tools, including tools from older or future computing environments. This is why
 markdown-based vaults pair naturally with [[Compounding Knowledge Base]] and
 [[LLM Wiki Pattern]] workflows.
 
+[[Building a Complete Personal Harness]] treats git-versioned markdown as a
+safety and portability layer for agent-maintained knowledge.
+
 ## Related
 
 - [[File over app]]
 - [[File Over App]]
+- [[Personal LLM Harness]]
 - [[Compounding Knowledge Base]]

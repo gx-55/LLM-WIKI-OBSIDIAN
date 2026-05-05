@@ -4,6 +4,7 @@ type: concept
 tags: [file-over-app, software-philosophy, knowledge-management]
 sources:
   - "[[raw/clippings/2026-05-05-file-over-app]]"
+  - "[[raw/clippings/2026-05-05-personal-harness-llm-wiki-developer-second-brain]]"
 created: 2026-05-05
 updated: 2026-05-05
 ---
@@ -27,8 +28,13 @@ Tool makers should make export, interoperability, and readable formats central
 to the product rather than afterthoughts. This aligns with [[Durable Digital Artifacts]]
 and with markdown-based systems such as the [[LLM Wiki Pattern]].
 
+[[Building a Complete Personal Harness]] applies this principle architecturally:
+start with direct filesystem access and ordinary markdown files before adding
+app-specific integrations such as MCP.
+
 ## Related
 
 - [[File over app]]
 - [[Durable Digital Artifacts]]
+- [[Personal LLM Harness]]
 - [[LLM Wiki Pattern]]

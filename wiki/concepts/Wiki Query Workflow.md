@@ -4,8 +4,9 @@ type: concept
 tags: [llm-wiki, workflow, query]
 sources:
   - "[[raw/clippings/2026-05-04-llm-wiki]]"
+  - "[[raw/clippings/2026-05-05-personal-harness-llm-wiki-developer-second-brain]]"
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-05-05
 ---
 
 # Wiki Query Workflow
@@ -28,9 +29,14 @@ wiki so future work compounds.
 local search or graph-aware tools may become useful, but the index keeps the
 workflow simple early on.
 
+[[Building a Complete Personal Harness]] emphasizes that query answers should
+cite consulted vault files so the difference between wiki-backed synthesis and
+unsupported inference stays visible.
+
 ## Related
 
 - [[LLM Wiki]]
 - [[LLM Wiki Pattern]]
+- [[Agent Slash Commands]]
 - [[Compounding Knowledge Base]]
 - [[Wiki Ingest Workflow]]
