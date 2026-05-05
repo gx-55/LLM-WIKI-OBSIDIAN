@@ -30,6 +30,7 @@ Global index maintained by the agent.
 - [[Developer Second Brain]] — The developer-work zone for ADRs, debriefs, projects, snippets, and technical notes.
 - [[Vault Zone Separation]] — Folder-level ownership rules that separate raw sources, wiki synthesis, and developer work.
 - [[Agent Slash Commands]] — Repeatable agent operations such as ingest and query.
+- [[Cross Project Vault Query]] — A global command workflow for consulting this vault from other code projects.
 - [[Agent Safety Layers]] — Overlapping controls for agent edits, prompt injection, and recovery.
 - [[Daily Note Synthesis]] — A workflow for distilling raw daily notes into themes, decisions, and candidate concepts.
 - [[Wiki Ingest Workflow]] — The workflow for converting a new source into durable wiki structure.

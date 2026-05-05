@@ -26,8 +26,16 @@ Commands should use narrow tool permissions, present plans before broad writes,
 and cite files when answering from the vault. This links [[Agent Slash Commands]]
 to [[Agent Safety Layers]].
 
+## Vault Query Command
+
+`/vault-query` is the cross-project command for consulting this vault from other
+code repositories. It implements [[Cross Project Vault Query]] by searching the
+vault by path and treating the vault as read-only unless the user explicitly
+asks for a write.
+
 ## Related
 
 - [[Wiki Ingest Workflow]]
 - [[Wiki Query Workflow]]
+- [[Cross Project Vault Query]]
 - [[Building a Complete Personal Harness]]
